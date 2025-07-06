@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋🏽 Hi, I'm Sebastian
 
-<!--
-**freelance-techy/freelance-techy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 A passionate student learning how to build useful and beautiful things with code.  
+💡 I’m currently exploring **HTML, CSS, and JavaScript** to create web projects that empower youth and promote digital wellness.  
+📚 Self-taught, motivated, and documenting my journey — from beginner to builder.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech I'm Learning:
+- HTML & CSS (✅ basics done)
+- JavaScript (📍started June 2025)
+- Git & GitHub (version control pro in the making)
+- Planning to learn: Tailwind, React, and Firebase
+
+---
+
+### 🚀 Projects So Far:
+- **Personal Portfolio Website** – A clean homepage to showcase who I am  
+- **Dark/Light Theme Switcher** – A themed landing page project (HTML/CSS/JS)  
+- **Health Tip Cards** – A mock health-tech UI with styled cards (responsive)
+
+> *More projects coming soon — I code daily and update weekly!*
+
+---
+
+### 🌐 Find Me Elsewhere:
+[![Instagram Badge](https://img.shields.io/badge/-@techhorizon_-purple?style=flat&logo=instagram&logoColor=white)](https://instagram.com/sebastian._dev_)  
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourname)  
+[![Portfolio Badge](https://img.shields.io/badge/-My%20Website-000?style=flat&logo=google-chrome&logoColor=white)](https://yourname.carrd.co)
+
+---
+
+### ✍🏽 Fun Fact:
+I believe **coding is a form of therapy** — it keeps the mind focused, creative, and empowered.
